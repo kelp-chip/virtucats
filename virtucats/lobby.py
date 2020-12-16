@@ -2,7 +2,6 @@ import csv
 from newPlayer import NewPlayer
 from part_one import PartOne
 from part_two import PartTwo
-from part_three import PartThree
 import time
 from vfunctions import pause, delay_print
 
